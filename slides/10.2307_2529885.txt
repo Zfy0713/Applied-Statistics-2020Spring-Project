@@ -1,0 +1,14 @@
+@article{10.2307/2529885,
+ ISSN = {0006341X, 15410420},
+ URL = {http://www.jstor.org/stable/2529885},
+ abstract = {A toxicological experiment analyzed by Pierce, Stewart and Kopecky (1979, Biometrics 35, 758-793) using Cox's proportional-hazards model is reanalyzed using mixture models which postulate a fraction of long-term survivors. The conclusions are seen to be potentially useful due to their simplicity and interpretability. Caution on the general use of mixture models is nevertheless advised.},
+ author = {V. T. Farewell},
+ journal = {Biometrics},
+ number = {4},
+ pages = {1041--1046},
+ publisher = {[Wiley, International Biometric Society]},
+ title = {The Use of Mixture Models for the Analysis of Survival Data with Long-Term Survivors},
+ volume = {38},
+ year = {1982}
+}
+

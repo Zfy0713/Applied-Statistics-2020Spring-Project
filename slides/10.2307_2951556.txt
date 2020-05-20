@@ -1,0 +1,14 @@
+@article{10.2307/2951556,
+ ISSN = {00129682, 14680262},
+ URL = {http://www.jstor.org/stable/2951556},
+ abstract = {This paper proposes an estimator for discrete choice models that makes no assumption concerning the functional form of the choice probability function, where this function can be characterized by an index. The estimator is shown to be consistent, asymptotically normally distributed, and to achieve the semiparametric efficiency bound. Monte-Carlo evidence indicates that there may be only modest efficiency losses relative to maximum likelihood estimation when the distribution of the disturbances is known, and that the small-sample behavior of the estimator in other cases is good.},
+ author = {Roger W. Klein and Richard H. Spady},
+ journal = {Econometrica},
+ number = {2},
+ pages = {387--421},
+ publisher = {[Wiley, Econometric Society]},
+ title = {An Efficient Semiparametric Estimator for Binary Response Models},
+ volume = {61},
+ year = {1993}
+}
+

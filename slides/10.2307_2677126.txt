@@ -1,0 +1,14 @@
+@article{10.2307/2677126,
+ ISSN = {0006341X, 15410420},
+ URL = {http://www.jstor.org/stable/2677126},
+ abstract = {Some failure time data come from a population that consists of some subjects who are susceptible to and others who are nonsusceptible to the event of interest. The data typically have heavy censoring at the end of the follow-up period, and a standard survival analysis would not always be appropriate. In such situations where there is good scientific or empirical evidence of a nonsusceptible population, the mixture or cure model can be used (Farewell, 1982, Biometrics 38, 1041-1046). It assumes a binary distribution to model the incidence probability and a parametric failure time distribution to model the latency. Kuk and Chen (1992, Biometrika 79, 531-541) extended the model by using Cox's proportional hazards regression for the latency. We develop maximum likelihood techniques for the joint estimation of the incidence and latency regression parameters in this model using the nonparametric form of the likelihood and an EM algorithm. A zero-tail constraint is used to reduce the near nonidentifiability of the problem. The inverse of the observed information matrix is used to compute the standard errors. A simulation study shows that the methods are competitive to the parametric methods under ideal conditions and are generally better when censoring from loss to follow-up is heavy. The methods are applied to a data set of tonsil cancer patients treated with radiation therapy.},
+ author = {Judy P. Sy and Jeremy M. G. Taylor},
+ journal = {Biometrics},
+ number = {1},
+ pages = {227--236},
+ publisher = {[Wiley, International Biometric Society]},
+ title = {Estimation in a Cox Proportional Hazards Cure Model},
+ volume = {56},
+ year = {2000}
+}
+
