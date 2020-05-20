@@ -1,0 +1,44 @@
+\begin{thebibliography}{6}
+\newcommand{\enquote}[1]{``#1''}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{{\tt #1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+
+\bibitem[{Boag(1949)}]{Boag1949}
+Boag, J.~W.
+\newblock \enquote{Maximum Likelihood Estimates of the Proportion of Patients
+  Cured by Cancer Therapy.}
+\newblock {\em Journal of the Royal Statistical Society. Series B
+  (Methodological)\/}, 11(1):15--53 (1949).
+
+\bibitem[{Cox(1972)}]{Cox1972}
+Cox, D.~R.
+\newblock \enquote{Regression Models and Life-Tables.}
+\newblock {\em Journal of the Royal Statistical Society. Series B
+  (Methodological)\/}, 34(2):187--220 (1972).
+
+\bibitem[{Farewell(1982)}]{Farewell1982}
+Farewell, V.~T.
+\newblock \enquote{The Use of Mixture Models for the Analysis of Survival Data
+  with Long-Term Survivors.}
+\newblock {\em Biometrics\/}, 38(4):1041--1046 (1982).
+
+\bibitem[{Hastie and Friedman(2009)}]{Hastie2009}
+Hastie, T.~R., T. and Friedman, R.
+\newblock \enquote{The Elements of Statistical Learning: Data Mining,
+  Inference, and Prediction.}
+\newblock {\em New York: Springer\/} (2009).
+
+\bibitem[{Ichimura(1993)}]{Ich1993}
+Ichimura, H.
+\newblock \enquote{Semiparametric least squares (SLS) and weighted SLS
+  estimation of single-index models.}
+\newblock {\em Journal of Econometrics\/}, 58(1):71 -- 120 (1993).
+
+\bibitem[{Sy and Taylor(2000)}]{Sy2000}
+Sy, J.~P. and Taylor, J. M.~G.
+\newblock \enquote{Estimation in a Cox Proportional Hazards Cure Model.}
+\newblock {\em Biometrics\/}, 56(1):227--236 (2000).
+
+\end{thebibliography}
