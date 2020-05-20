@@ -1,4 +1,5 @@
 # Applied-Statistics-2020Spring-Project
+## Mixture cure model
 This project contains two mixture cure models: logistic/Cure rate model and single-index/cure rate model. A mixture cure model assumes two parts: incidence and latency. Incidence means uncured status while latency means conditional survival function for the uncured subjects.
 
 ## Data
