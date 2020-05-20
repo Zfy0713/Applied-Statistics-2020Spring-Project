@@ -1,0 +1,28 @@
+### Here is the description of the Teeth data
+### Written by Dipankar Bandyopadhyay, VCU
+
+
+(a) The full dataset is in the file: Teeth_ILDoData.csv
+
+* id: subject id,
+* tooth: teeth number inside each id
+* event/delta: 1 = failure, 0 = censored
+* time: time-to-event
+* Mobility: mobility score, on a scale 0-5
+* BOP%: % of tooth-sites that bled when probed 
+* Plaque%: % of tooth-sites stained with bacterial plaque
+* Pdmean: mean pocket depth for that tooth 
+* CALmean: mean clinical attachment level for that tooth
+* Crown: Binary (tooth has crown, or not)
+* Implant: Binary (tooth has implant, or not)
+* Missing?: We don't need this covariate (delete it)
+* Decayed?: Binary, Does tooth has decayed sites? 
+* D+F sites: total number of decayed AND filled sites, per tooth
+* Age: Patient age at baseline (in years)
+* Gender: Binary (M/F)
+* Diabetes: Binary (Y/N) 
+* Tobacco Use: Binary (Had Tobacco, or Never had)
+* Molar tooth: Binary (Is the tooth a molar = 1, vs not = 0)
+
+
+
